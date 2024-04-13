@@ -11,3 +11,4 @@ When referencing this dataset in your own manuscripts and publications, please u
 
 ----------------------------------------------------
 Link Website:  https://challenge.isic-archive.com/data/#2018
+$${\color{red}Red}$$
