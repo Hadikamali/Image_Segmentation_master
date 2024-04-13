@@ -10,5 +10,5 @@ When referencing this dataset in your own manuscripts and publications, please u
 [2] Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).
 
 ----------------------------------------------------
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+<font color="green"> Some green text </font>
 Link Website:  https://challenge.isic-archive.com/data/#2018
