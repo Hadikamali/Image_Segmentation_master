@@ -1,12 +1,5 @@
 ${\color{orange} Pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net}$
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-
-
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 
 https://arxiv.org/abs/1505.04597
